@@ -1,14 +1,15 @@
 # Yolo_Object_Detection
 Tutorials Yolo_Object_Detection for custom data:
 # 1. Label object
-Use LabelImg -> export file txt
+Method 1: Use LabelImg -> export file txt
+Method 2: Use https://www.makesense.ai/
 Note: id classes as number object.
 # 2. zip file img, upload drive
 # Open Google Colab
 # 3. unzip file img in drive
 # 4. git clone github
-!git clone 'https://github.com/AlexeyAB/darknet.git' '_____PATH_____/darknet'
-## Example:
+!git clone 'https://github.com/AlexeyAB/darknet.git' 'PATH_to_darknet'
+### Example:
 !git clone 'https://github.com/AlexeyAB/darknet.git' '/content/drive/MyDrive/yolov3_v1/darknet'
 # 5. Make file
 !make
