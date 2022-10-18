@@ -1,9 +1,11 @@
 # Yolo_Object_Detection
 Tutorials Yolo_Object_Detection for custom data:
 # 1. Label object
-####Method 1: Use LabelImg -> export file txt
-####Method 2: Use https://www.makesense.ai/
-####Note: id classes as number object.
+Method 1: Use LabelImg -> export file txt
+
+Method 2: Use https://www.makesense.ai/
+
+Note: id classes as number object.
 # 2. zip file img, upload drive
 # Open Google Colab
 # 3. unzip file img in drive
